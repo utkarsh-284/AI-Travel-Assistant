@@ -108,7 +108,7 @@ python visualize_graph.py
 -   `vietnam_travel_dataset.json`: The raw travel data in JSON format.
 -   `visualize_graph.py`: Script to generate a visualization of the Neo4j graph.
 
-## 📬 Contact
+## Contact
 **Utkarsh Bhardwaj**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh284-blue)](https://www.linkedin.com/in/utkarsh284/)
