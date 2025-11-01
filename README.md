@@ -29,8 +29,7 @@ To get the AI travel Assistant up and running, you will need to set up the requi
 First, clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/utkarsh-284/AI-Travel-Assistant.git
 ```
 
 ### 2. Install Dependencies
