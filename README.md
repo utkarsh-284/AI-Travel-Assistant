@@ -108,3 +108,13 @@ python visualize_graph.py
 -   `requirements.txt`: A list of all the Python dependencies.
 -   `vietnam_travel_dataset.json`: The raw travel data in JSON format.
 -   `visualize_graph.py`: Script to generate a visualization of the Neo4j graph.
+
+## 📬 Contact
+**Utkarsh Bhardwaj**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh284-blue)](https://www.linkedin.com/in/utkarsh284/)
+[![GitHub](https://img.shields.io/badge/GitHub-utkarsh--284-lightgrey)](https://github.com/utkarsh-284)
+
+**Contact:** ubhardwaj284@gmail.com
+
+**Publish Date:** 1st November, 2025
