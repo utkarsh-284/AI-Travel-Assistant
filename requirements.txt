@@ -1,0 +1,12 @@
+neo4j
+openai
+pinecone
+pinecone-client
+pyvis
+networkx
+tqdm
+python-dotenv
+
+langchain 
+langchain_openai 
+langgraph
